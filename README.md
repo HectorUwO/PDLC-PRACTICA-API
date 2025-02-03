@@ -2,5 +2,5 @@
 ```
 Consumo de API REST
 ```
-**Hector Yair Medrano Coronel** <br>
+Hector Yair Medrano Coronel <br>
 **Universidad Autonoma de Nayarit**
